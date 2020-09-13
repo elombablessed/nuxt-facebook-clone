@@ -1,9 +1,7 @@
 <template>
-    <v-main>
-      <v-container>
-        <Nuxt />
-      </v-container>
-    </v-main>
+    <div>
+       <Nuxt />
+    </div>   
 </template>
 
 <script>
@@ -14,7 +12,6 @@ export default {
  <style>
  *{
    margin: 0;
-   padding: 0;
  }
  
  </style>
